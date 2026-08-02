@@ -23,7 +23,7 @@ This project allows users to set an alarm by selecting the hour, minute, and sec
 ## Project Structure
 
 ```
-01_Alarm_Clock/
+Alarm_Clock/
 │── main.py
 │── sound.wav
 └── README.md
